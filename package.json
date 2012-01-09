@@ -12,7 +12,6 @@
     "type": "MIT",
     "url": "http://www.opensource.org/licenses/mit-license.php"
   }],
-  "bin": { "jshint": "./bin/hint" },
   "main": "packages/jshint/jshint",
   "files": [
     "packages/jshint/README.markdown",
@@ -29,6 +28,5 @@
   },
   "devDependencies": {
     "jasmine-node": "1.0.7"
-  },
-  "preferGlobal" : true
+  }
 }
